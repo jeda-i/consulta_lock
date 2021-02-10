@@ -1,0 +1,60 @@
+.container-header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;     
+    padding: 30px;        
+    top: 0;   
+}
+
+.container-header img{
+    width: 15%;
+    padding-top: 2%;
+    
+}
+
+body{
+    background-color: #FFF8DC;
+}
+
+.container-header h2{
+    font-family: 'Teko', sans-serif;   
+    padding: 20px;
+    font-size: 60px;
+    font-family: 'Frank Ruhl Libre', serif;  
+}
+
+.container-header p{
+    font-family: 'Teko', sans-serif;
+    padding-top: 2%;
+    font-size: 170%;
+}
+
+
+td {    
+    font-size: 14px;    
+}
+
+.container-footer{
+    display: flex;   
+    flex-direction: column;            
+    width:100%;
+    border: solid 1px black;
+    position: fixed;
+    bottom: 0; 
+    background-color: brown; 
+     
+}
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
